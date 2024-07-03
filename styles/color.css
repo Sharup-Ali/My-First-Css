@@ -1,0 +1,84 @@
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    background-image: url('developer.jpg');
+    height: 300px;
+    background-size: contain;
+    font-size: 35px;
+}
+.head{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 18px;
+}
+.one{
+    background-image: url(../styles/what-is-html-3.webp);
+    background-size: cover;
+    border: 5px solid black;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    text-align: justify;
+    max-width: 500px;
+    box-shadow: 5px 5px 5px;
+}
+.two{
+    background-image: url(../styles/sta-je-css.png);
+    background-size: cover;
+    border: 5px solid black;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    text-align: justify;
+    max-width: 500px;
+    box-shadow: 5px 5px 5px;
+}
+.three{
+    background-image: url(../styles/git.avif);
+    background-size: cover;
+    border: 5px solid black;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    text-align: justify;
+    max-width: 500px;
+    box-shadow: 5px 5px 5px;
+    
+}
+.para{
+    color:peru;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+}
+
+.btn{
+    background-color:orange;
+    color: black;
+    border-radius: 5px;
+    margin-left: 25px;
+}
+label{
+    display:block;
+    margin-top: 10px;
+    color: bisque;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.login{
+    color:chocolate;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.form{
+    background-image: url(../styles/form.avif);
+    background-size: cover;
+    max-width: 600px;
+    padding: 20px;
+    margin-left: 20px;
+   
+    border-radius: 10px;
+}
+.special{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color:coral;
+    font-weight:700px ;
+}
